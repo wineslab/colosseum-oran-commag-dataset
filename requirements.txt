@@ -1,0 +1,9 @@
+cloudpickle==1.4.1
+numpy<1.19.0
+pandas
+scipy==1.4.1
+setuptools>=41.0.0
+tensorflow==2.3
+tensorflow-probability==0.7
+tf_agents
+

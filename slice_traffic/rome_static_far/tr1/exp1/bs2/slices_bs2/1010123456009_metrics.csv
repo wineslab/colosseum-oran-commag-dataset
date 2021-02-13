@@ -1,0 +1,5 @@
+Timestamp,num_ues,IMSI,RNTI,,slicing_enabled,slice_id,slice_prb,power_multiplier,scheduling_policy,,dl_mcs,dl_n_samples,dl_buffer [bytes],tx_brate downlink [Mbps],tx_pkts downlink,tx_errors downlink (%),dl_cqi,,ul_mcs,ul_n_samples,ul_buffer [bytes],rx_brate uplink [Mbps],rx_pkts uplink,rx_errors uplink (%),ul_rssi,ul_sinr,phr,,sum_requested_prbs,sum_granted_prbs,,dl_pmi,dl_ri,ul_n,ul_turbo_iters
+1602997851125,13,1010123456009,100,,1,0,2,1,1,,0.1,11,110,0.00308434,4,0,1,,0,28,0,0.1,14,7.14286,0,0,31,,280,121,,0,0,0,0
+1602997851375,14,1010123456009,100,,1,0,2,1,1,,0,0,110,0,0,0,1,,0,14,0,0.1,7,0,0,0,31,,0,34,,0,0,0,0
+1602997851625,15,1010123456009,100,,1,0,2,1,1,,0,0,110,0,0,0,0.1,,0,0,0,0,0,0,0,0,0,,0,122,,0,0,0,0
+1602997851875,15,1010123456009,100,,1,0,2,1,1,,0,0,110,0,0,0,0.1,,0,0,0,0,0,0,0,0,0,,0,116,,0,0,0,0
