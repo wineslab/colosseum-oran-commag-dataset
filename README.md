@@ -1,5 +1,5 @@
 # Colosseum O-RAN COMMAG Dataset
-This repository contains the dataset for the paper L. Bonati, S. D'Oro, M. Polese, S. Basagni, T. Melodia, "Intelligence and Learning in O-RAN for Data-driven NextG Cellular Networks," <a href="https://arxiv.org/abs/2012.01263" target="_blank">arXiv:2012.01263</a> [cs.NI], December 2020. Please cite the paper if you plan to use it in your publication.
+This repository contains the dataset for the paper L. Bonati, S. D'Oro, M. Polese, S. Basagni, T. Melodia, "Intelligence and Learning in O-RAN for Data-driven NextG Cellular Networks," IEEE Communications Magazine, vol. 59, no. 10, pp. 21–27, October 2021. Please cite the paper if you plan to use it in your publication.
 
 ## Experiment setup
 - Number of Base Stations (BSs): 4
