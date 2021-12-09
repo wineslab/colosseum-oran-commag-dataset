@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the following paper.
+authors:
+  - family-names: Bonati
+    given-names: Leonardo
+  - family-names: D'Oro
+    given-names: Salvatore
+  - family-names: Polese
+    given-names: Michele
+  - family-names: Basagni
+    given-names: Stefano
+  - family-names: Melodia
+    given-names: Tommaso
+title: Dataset for Intelligence and Learning in O-RAN for Data-driven NextG Cellular Networks
+type: dataset
+date-released: 2021-02-22
+license: GPL-3.0
+repository-code: "https://github.com/wineslab/colosseum-oran-commag-dataset"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Bonati
+    given-names: Leonardo
+  - family-names: D'Oro
+    given-names: Salvatore
+  - family-names: Polese
+    given-names: Michele
+  - family-names: Basagni
+    given-names: Stefano
+  - family-names: Melodia
+    given-names: Tommaso
+  title: Intelligence and Learning in O-RAN for Data-driven NextG Cellular Networks
+  journal: IEEE Communications Magazine
+  volume: 59
+  issue: 10
+  start: 21
+  end: 27
+  month: October
+  year: 2021
